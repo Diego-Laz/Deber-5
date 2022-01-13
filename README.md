@@ -26,6 +26,7 @@ MARCO TEÓRICO:
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 capitulo 9
+
 ![image](https://user-images.githubusercontent.com/93835463/149272473-8f5a3d8f-4cf1-4e88-8484-87ab3b74aad7.png)
 ![image](https://user-images.githubusercontent.com/93835463/149272483-8b052a4a-8a5c-47f1-b093-2157045974ba.png)
 ![image](https://user-images.githubusercontent.com/93835463/149272489-5f35486c-dc4d-4ef6-8351-5324179e4ff0.png)
@@ -47,7 +48,13 @@ capitulo 10
 
 VIDEOS
 
+https://www.youtube.com/watch?v=DvtSV577joU
+
 CONCLUSIONES
+
+-En el presente deber logramos entender el calculo de la corriente mediante mallas y nodos, dos procesos que nos facilitan estos calculos para asi resolver los circuitos de una manera mas sencilla. 
+
+-En el tema de electromagnetismo comenzamos a entender este concepto el cual busca explicar los fenomenos que ocurren al estudiar los campos magneticos y el como aplicar estos al momento derealizar circuitos.
 
 BIBLIOGRAFÍA
 
