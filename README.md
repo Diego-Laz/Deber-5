@@ -38,6 +38,9 @@ capitulo 9
 ![image](https://user-images.githubusercontent.com/93835463/149273043-b82adedc-c637-4089-a992-5b86166d128f.png)
 ![image](https://user-images.githubusercontent.com/93835463/149273890-f14a8a7d-f7b4-4fa7-960c-1adb6074bb14.png)
 ![image](https://user-images.githubusercontent.com/93835463/149273752-14544964-c70e-4eb2-9735-de892b372ac7.png)
+![ccdcdcecd](https://user-images.githubusercontent.com/93835463/149274995-243d0e9c-9896-483e-b3e3-fea9110ac64e.jpeg)
+![sxxsxsxss](https://user-images.githubusercontent.com/93835463/149275011-ae9c3b78-7a43-41a8-b552-0a6add1969cc.jpeg)
+![qwwqqwwq](https://user-images.githubusercontent.com/93835463/149275024-7b4d10ef-6183-4acb-ac6c-76b5ead2c72c.jpeg)
 
 capitulo 10
 
@@ -49,6 +52,10 @@ capitulo 10
 VIDEOS
 
 https://www.youtube.com/watch?v=DvtSV577joU
+
+https://www.youtube.com/watch?v=5DgyDjMN0ZA
+
+https://www.youtube.com/watch?v=wZggsxF4bus
 
 CONCLUSIONES
 
